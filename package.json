@@ -1,0 +1,14 @@
+{
+  "name": "hiresight-pro",
+  "version": "2.0.0",
+  "description": "Enhanced job scam detection platform",
+  "main": "backend/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  },
+  "keywords": ["job scam", "fraud detection", "nodejs", "frontend"],
+  "author": "OpenAI",
+  "license": "MIT"
+}

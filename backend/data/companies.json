@@ -1,0 +1,32 @@
+[
+  {
+    "name": "TCS",
+    "status": "Verified",
+    "domain": "tcs.com",
+    "note": "Recognized enterprise employer with official corporate domain."
+  },
+  {
+    "name": "Infosys",
+    "status": "Verified",
+    "domain": "infosys.com",
+    "note": "Known IT services company with official recruitment channels."
+  },
+  {
+    "name": "Wipro",
+    "status": "Verified",
+    "domain": "wipro.com",
+    "note": "Use official careers pages and verified recruiter emails only."
+  },
+  {
+    "name": "FakeJobs Pvt Ltd",
+    "status": "Reported as Scam",
+    "domain": "-",
+    "note": "Multiple user reports mention advance fee demands and unverified communication."
+  },
+  {
+    "name": "QuickEarn Global",
+    "status": "Reported as Scam",
+    "domain": "-",
+    "note": "Reported for unrealistic salary promises and suspicious onboarding payments."
+  }
+]
